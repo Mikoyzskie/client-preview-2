@@ -1,0 +1,87 @@
+html,
+body {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, Inter, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    -webkit-font-smoothing: antialiased;
+    font-family: Inter, sans-serif !important;
+    line-height: 1.38em !important;
+}
+
+p {
+    font-family: Inter, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+#iyji {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#it69 {
+    font-size: 18px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+}
+
+.title.mb-6.has-text-weight-bold {
+    font-size: 48px;
+}
+
+.subtitle {
+    font-size: 23px;
+    color: rgb(114, 114, 114);
+}
+
+#i3c1c {
+    color: rgb(114, 114, 114);
+}
+
+.pricing-helper {
+    color: rgb(114, 114, 114);
+}
+
+.has-text-weight-bold.mb-3.section-title {
+    font-size: 36px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+}
+
+.p {
+    color: rgb(114, 114, 114);
+}
+
+@media (max-width: 992px) {
+    .title.mb-6.has-text-weight-bold {
+        font-size: 40px;
+    }
+
+    .subtitle {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .title.mb-6.has-text-weight-bold {
+        font-size: 36px;
+    }
+}
